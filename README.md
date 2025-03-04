@@ -9,8 +9,8 @@ The steps below indicate how you can use your own dataset to fine tune a plain t
 - second run tokenize.py in order to tokenize the dataset.
 now the dataset is ready to train the model and train the model with train.py
 
-# TODO
-Proper evaluation/Benchmarking 
-System prompt-containing dataset
-Available fine-tuned checkpoints
-further training strategies: RLHF, RLAI etc.
+#### TODO
+-Proper evaluation/Benchmarking 
+-System prompt-containing dataset
+-Available fine-tuned checkpoints
+-further training strategies: RLHF, RLAI etc.
